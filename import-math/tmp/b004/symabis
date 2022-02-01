@@ -1,0 +1,2 @@
+def "".cpuid ABI0
+def "".xgetbv ABI0

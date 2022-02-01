@@ -1,0 +1,8 @@
+# import config
+packagefile internal/abi=/var/folders/3v/_bm5xd8545sbtd_qlmc3dv7c0000gn/T/go-build3159811147/b010/_pkg_.a
+packagefile internal/bytealg=/var/folders/3v/_bm5xd8545sbtd_qlmc3dv7c0000gn/T/go-build3159811147/b011/_pkg_.a
+packagefile internal/cpu=/var/folders/3v/_bm5xd8545sbtd_qlmc3dv7c0000gn/T/go-build3159811147/b004/_pkg_.a
+packagefile internal/goexperiment=/var/folders/3v/_bm5xd8545sbtd_qlmc3dv7c0000gn/T/go-build3159811147/b012/_pkg_.a
+packagefile runtime/internal/atomic=/var/folders/3v/_bm5xd8545sbtd_qlmc3dv7c0000gn/T/go-build3159811147/b013/_pkg_.a
+packagefile runtime/internal/math=/var/folders/3v/_bm5xd8545sbtd_qlmc3dv7c0000gn/T/go-build3159811147/b014/_pkg_.a
+packagefile runtime/internal/sys=/var/folders/3v/_bm5xd8545sbtd_qlmc3dv7c0000gn/T/go-build3159811147/b015/_pkg_.a

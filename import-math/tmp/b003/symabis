@@ -1,0 +1,10 @@
+def "".archMax ABI0
+def "".archMin ABI0
+def "".archExp ABI0
+ref "".useFMA ABI0
+def "".archFloor ABI0
+def "".archCeil ABI0
+def "".archTrunc ABI0
+def "".archHypot ABI0
+def "".archLog ABI0
+def "".archSqrt ABI0

@@ -1,0 +1,4 @@
+# import config
+packagefile internal/race=/var/folders/3v/_bm5xd8545sbtd_qlmc3dv7c0000gn/T/go-build3159811147/b008/_pkg_.a
+packagefile runtime=/var/folders/3v/_bm5xd8545sbtd_qlmc3dv7c0000gn/T/go-build3159811147/b009/_pkg_.a
+packagefile sync/atomic=/var/folders/3v/_bm5xd8545sbtd_qlmc3dv7c0000gn/T/go-build3159811147/b016/_pkg_.a
